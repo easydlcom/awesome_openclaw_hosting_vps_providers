@@ -1,0 +1,10 @@
+title: AI Web Search APIs
+emoji: 🔍
+short_description: Curated list of web search APIs with LLMs
+colorFrom: purple
+colorTo: blue
+sdk: static
+pinned: false
+license: cc0-1.0
+app_port: 7860
+metadata_version: 1
