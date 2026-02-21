@@ -143,6 +143,7 @@ This list covers 7 working OpenClaw hosting and VPS services, providing details 
 - On/off scheduling and data export
 - EU-based hosting (Hetzner, Germany) — GDPR compliant
 - 1-click deployment in under 1 minute, fully managed
+- Automatic updates (can be toggled off)
 - Built-in web automation via Playwright (Chromium pre-installed)
 - Actively developed (new features shipping regularly)
 
