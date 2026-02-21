@@ -129,9 +129,9 @@ This list covers 7 working OpenClaw hosting and VPS services, providing details 
 **Pricing Plans:**
 | Plan | Price | Hardware | AI Credits | Features |
 |------|-------|----------|-----------|----------|
-| Budget | €19/mo (~$21) | 2 vCPU, 4GB RAM, 40GB SSD | Gemini Flash & DeepSeek included | Auto-updates, SSH access, personal subdomain |
-| Balanced | €35/mo (~$38) | 4 vCPU, 8GB RAM, 80GB SSD | Gemini Flash & DeepSeek included | + Browser automation, up to 3 instances |
-| Pro | €59/mo (~$64) | 8 vCPU, 16GB RAM, 160GB SSD | Gemini Flash & DeepSeek included | + Unlimited instances, extended storage |
+| Budget | €19/mo (~$21) | 2 vCPU, 4GB RAM, 40GB SSD | Gemini Flash & DeepSeek included | Auto-updates, SSH, personal subdomain, 1 instance |
+| Balanced | €35/mo (~$38) | 4 vCPU, 8GB RAM, 80GB SSD | Gemini Flash & DeepSeek included | All Budget features, browser automation, up to 3 instances |
+| Pro | €59/mo (~$64) | 8 vCPU, 16GB RAM, 160GB SSD | Gemini Flash & DeepSeek included | All Balanced features, unlimited instances |
 
 **Key Features:**
 - Free AI models included (Gemini Flash, DeepSeek) — no API key needed to get started
